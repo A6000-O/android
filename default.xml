@@ -379,13 +379,13 @@
   <project path="hardware/marvell/bt" name="platform/hardware/marvell/bt" groups="marvell_bt,pdk" remote="aosp" />
   <project path="hardware/qcom/audio/default" name="Hyper-OS/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" />
   <project path="hardware/qcom/bootctrl" name="platform/hardware/qcom/bootctrl" groups="pdk" remote="aosp" />
-  <project path="hardware/qcom/bt" name="LineageOS/android_hardware_qcom_bt" groups="qcom,pdk" />
+  <project path="hardware/qcom/bt" name="Hyper-OS/android_hardware_qcom_bt" groups="qcom,pdk" />
   <project path="hardware/qcom/display" name="Hyper-OS/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" />
   <project path="hardware/qcom/gps" name="Hyper-OS/android_hardware_qcom_gps" groups="qcom,qcom_gps,pdk" />
   <project path="hardware/qcom/keymaster" name="Hyper-OS/android_hardware_qcom_keymaster" groups="qcom,qcom_keymaster,pdk" />
   <project path="hardware/qcom/media" name="Hyper-OS/android_hardware_qcom_media" groups="qcom,pdk" />
   <project path="hardware/qcom/wlan" name="Hyper-OS/android_hardware_qcom_wlan" groups="qcom_wlan,pdk" />
-  <project path="hardware/ril" name="LineageOS/android_hardware_ril" groups="pdk" />
+  <project path="hardware/ril" name="Hyper-OS/android_hardware_ril" groups="pdk" />
   <project path="kernel/tests" name="kernel/tests" remote="aosp" />
   <project path="libcore" name="platform/libcore" groups="pdk" remote="aosp" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" remote="aosp" />
