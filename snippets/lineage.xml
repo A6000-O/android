@@ -107,12 +107,12 @@
   <project path="hardware/qcom/media-caf/msm8996" name="LineageOS/android_hardware_qcom_media" groups="qcom,pdk" revision="lineage-15.0-caf-8996" />
   <project path="hardware/qcom/media-caf/msm8998" name="LineageOS/android_hardware_qcom_media" groups="qcom,pdk" revision="lineage-15.0-caf-8998" />-->
   <project path="hardware/qcom/wlan-caf" name="LineageOS/android_hardware_qcom_wlan" groups="qcom_wlan,pdk" revision="lineage-15.0-caf" />
-  <!--<project path="hardware/ril-caf" name="LineageOS/android_hardware_ril" groups="pdk" revision="lineage-15.0-caf" />
-  <project path="system/qcom" name="LineageOS/android_system_qcom" groups="qcom" />
-  <project path="vendor/codeaurora/telephony" name="LineageOS/android_vendor_codeaurora_telephony" />
-  <project path="vendor/qcom/opensource/bluetooth" name="LineageOS/android_vendor_qcom_opensource_bluetooth" />
+  <project path="hardware/ril-caf" name="Hyper-OS/android_hardware_ril" groups="pdk" revision="lineage-15.0-caf" />
+  <project path="system/qcom" name="Hyper-OS/android_system_qcom" groups="qcom" />
+  <!--<project path="vendor/codeaurora/telephony" name="LineageOS/android_vendor_codeaurora_telephony" />
+  <project path="vendor/qcom/opensource/bluetooth" name="LineageOS/android_vendor_qcom_opensource_bluetooth" />-->
   <project path="vendor/qcom/opensource/cryptfs_hw" name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw" />-->
-  <project path="vendor/qcom/opensource/dataservices" name="LineageOS/android_vendor_qcom_opensource_dataservices" />
+  <project path="vendor/qcom/opensource/dataservices" name="Hyper-OS/android_vendor_qcom_opensource_dataservices" />
   <!--<project path="vendor/qcom/opensource/dpm" name="LineageOS/android_vendor_qcom_opensource_dpm" />
   <project path="vendor/qcom/opensource/time-services" name="LineageOS/android_vendor_qcom_opensource_time-services" /> -->
 
