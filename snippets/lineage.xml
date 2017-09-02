@@ -15,5 +15,7 @@
   <project path="system/qcom" name="Hyper-OS/android_system_qcom" groups="qcom" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="Hyper-OS/android_vendor_qcom_opensource_cryptfs_hw" />-->
   <project path="vendor/qcom/opensource/dataservices" name="Hyper-OS/android_vendor_qcom_opensource_dataservices" />
- 
+ <!-- Vendor repos -->
+<project path="vendor/aosp" name="AOSP-JF-MM/platform_vendor_aosp" remote="github" revision="aosp-8.0-test" />
+  
 </manifest>
